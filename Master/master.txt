@@ -1,1 +1,2 @@
 Hi This is my first commit in master branch
+Hi This is my second commit in master branch
